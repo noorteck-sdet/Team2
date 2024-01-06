@@ -36,6 +36,9 @@ public class HWDemo {
 
 	// Trying to pull : By/ Zain
 	
+	public static void teamScore() {
+		System.out.println("hala madrid score?"); //Ruby
+	}
 }
 
 // this comment edit by : Hadeel
