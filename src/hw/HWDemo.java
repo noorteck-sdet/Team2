@@ -29,6 +29,8 @@ public class HWDemo {
 		System.out.println("Name: "+ playerName + " "+ playerNum);
 		
 		// by Zain 
+		
+		System.out.println("Stashing");
 	}
 
 	// Trying to pull : By/ Zain
