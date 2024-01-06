@@ -23,6 +23,6 @@ public class HWDemo {
 		System.out.println("have a nice weekend"); //Ruby
 		
 	} 
-
+}
 
 // this comment edit by : Hadeel
