@@ -4,4 +4,8 @@ public class HWDemo {
 
 	//Instruction: Each team member pushes at least once by adding 1 method
 	//Practice Cloning, Pulling, Pushing, Stashing
+	
+	public void justdoit() {
+		System.out.println("it begins at 9:19 ");//Alex 
+	} // if your seeing this you're late
 }
