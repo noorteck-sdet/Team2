@@ -7,8 +7,10 @@ public class HWDemo {
 	
 	public void justdoit() {
 		System.out.println("it begins at 9:19 ");//Alex 
-	} // if you're seeing this you're late
+		// if you're seeing this you're late
+		// commented by Haithem
 }
+	} 
 
 
 // this comment edit by : Hadeel
