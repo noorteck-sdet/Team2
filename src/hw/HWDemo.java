@@ -23,6 +23,13 @@ public class HWDemo {
 		System.out.println("have a nice weekend"); //Ruby
 		
 	} 
+	
+	public void halaMadrid (String playerName , int playerNum ) {
+		
+		System.out.println("Name: "+ playerName + " "+ playerNum);
+		
+		// by Zain 
+	}
 }
 
 // this comment edit by : Hadeel
