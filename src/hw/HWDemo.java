@@ -11,6 +11,11 @@ public class HWDemo {
 		// commented by Haithem @ 5:59 on 01/06/2024
 		// Demo Push by Haithem WorkPlace
 		// Demo Push2 by Haithem WorkPlace @8:57 on 01/06/2024
+	}
+	public void riseandshine() {
+		System.out.println("Get out of bed"); 
+		// 1/6/2024 8:28AM
+	
 }
 	} 
 
