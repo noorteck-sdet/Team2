@@ -31,6 +31,7 @@ public class HWDemo {
 		// by Zain 
 		
 		System.out.println("Stashing");
+		System.out.println("who is winning?"); //Ruby
 	}
 
 	// Trying to pull : By/ Zain
