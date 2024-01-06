@@ -17,6 +17,9 @@ public class HWDemo {
 		// 1/6/2024 8:28AM
 	
 }
+	public void HappyWeekend(){
+		System.out.println("have a nice weekend"); //Ruby
+		
 	} 
 
 
