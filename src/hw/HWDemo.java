@@ -39,6 +39,13 @@ public class HWDemo {
 	public static void teamScore() {
 		System.out.println("hala madrid score?"); //Ruby
 	}
+
+	public static void CarBrands()
+	{
+		System.out.println("BMW,Ford,Mercedes,Toyota,Honda");      // Hadeel
+	
+}
+
 }
 
 // this comment edit by : Hadeel
