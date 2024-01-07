@@ -38,7 +38,7 @@ public class HWDemo {
 		
 		System.out.println("Stashing");
 		System.out.println("who is winning?"); //Ruby
-		System.out.println("Real Madrid always WIN"); //Zain
+		System.out.println("Real Madrid always WIN :)"); //Zain
 	}
 
 	// Trying to pull : By/ Zain
