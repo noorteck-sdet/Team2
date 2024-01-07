@@ -66,7 +66,7 @@ public static void gameOfThrones() {
 
 public static void QALanguage() {   //by Simaa
 	System.out.println("Java");
-	
+	System.out.println("SQL");
 }
 }
 
