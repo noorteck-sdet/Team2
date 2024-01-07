@@ -50,6 +50,8 @@ public class HWDemo {
 	public static void CarBrands()
 	{
 		System.out.println("BMW,Ford,Mercedes,Toyota,Honda");      // Hadeel
+		
+		//Good morning -->Ruby
 	
 }                                                                  // Car Brands 
 }
@@ -71,7 +73,7 @@ public static void QALanguage() {   //by Simaa
 	
 }
 public static void SundayFunDay(){
-	System.out.println("java is !fun"){ // -->Ruby
+	System.out.println("java is !fun"); // -->Ruby
 	}
 }
 
