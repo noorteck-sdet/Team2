@@ -75,5 +75,38 @@ public static void QALanguage() {   //by Simaa
 public static void SundayFunDay(){
 	System.out.println("java is !fun"); // -->Ruby
 	}
+
+	// Added by Kazim.....
+
+	public static void myBestPs5Game() {
+		System.out.println("Call of duty world war 2...");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
