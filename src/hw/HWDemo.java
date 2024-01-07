@@ -18,7 +18,12 @@ public class HWDemo {
 	
 	
 	//i am late :) - Ruby
-}
+	
+	}
+
+	public void dinnertimecheckin() {
+		System.out.println("Time to get to cooking");// Alex 7:22 PM
+	}
 	public void HappyWeekend(){
 		System.out.println("have a nice weekend"); //Ruby
 		
