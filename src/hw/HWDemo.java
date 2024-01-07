@@ -44,8 +44,7 @@ public class HWDemo {
 	{
 		System.out.println("BMW,Ford,Mercedes,Toyota,Honda");      // Hadeel
 	
-}
-
+}                                                                  // Car Brands 
 }
 
 // this comment edit by : Hadeel
