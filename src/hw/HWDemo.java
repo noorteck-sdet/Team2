@@ -64,3 +64,9 @@ public static void gameOfThrones() {
 	System.out.println("Winter is Coming!"); //Yahiya
 }
 
+public static void QALanguage() {   //by Simaa
+	System.out.println("Java");
+	
+}
+}
+
