@@ -67,6 +67,11 @@ public static void gameOfThrones() {
 public static void QALanguage() {   //by Simaa
 	System.out.println("Java");
 	System.out.println("SQL");
+
+	
 }
+public static void SundayFunDay(){
+	System.out.println("java is !fun"){ // -->Ruby
+	}
 }
 
