@@ -16,6 +16,7 @@ public class HWDemo {
 		System.out.println("Get out of bed"); 
 		// 1/6/2024 8:28AM
 	
+		
 	
 	//i am late :) - Ruby
 	
@@ -82,28 +83,14 @@ public static void SundayFunDay(){
 		System.out.println("Call of duty world war 2...");
 		
 } // missing bracket added by Ruby
-	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
+	
+	public static void SchoolsInUSA() {
+		System.out.println("Elementary Schools , Middle Schools , High Schools  ");
+		
+	} // Hadeel 	
+	
+}
 
 // this comment edit by : Hadeel
 // Updated pull on 1/8/2024 10:11 AM 
