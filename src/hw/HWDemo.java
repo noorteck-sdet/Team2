@@ -54,7 +54,7 @@ public class HWDemo {
 		//Good morning -->Ruby
 	
 }                                                                  // Car Brands 
-}
+//Error - removed extra bracket ->Ruby
 
 // this comment edit by : Hadeel
 
@@ -80,7 +80,9 @@ public static void SundayFunDay(){
 
 	public static void myBestPs5Game() {
 		System.out.println("Call of duty world war 2...");
-}
+		
+} // missing bracket added by Ruby
+	}
 
 
 
